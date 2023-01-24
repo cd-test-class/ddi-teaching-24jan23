@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Background: Computing labs in the School of Maths}{2}{0}{1}
+\beamer@sectionintoc {2}{Pair programming as a pedagogical tool}{11}{0}{2}
+\beamer@sectionintoc {3}{Distributed/remote pair programming}{18}{0}{3}
+\beamer@sectionintoc {4}{How did it go?}{24}{0}{4}
+\beamer@sectionintoc {5}{Changes from 2021}{34}{0}{5}
+\beamer@sectionintoc {6}{Peer-assessed code review}{37}{0}{6}
+\beamer@sectionintoc {7}{Final thoughts}{51}{0}{7}
